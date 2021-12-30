@@ -1,0 +1,11 @@
+baseURL = 'https://sagarbaba.github.io/'
+languageCode = 'en-us'
+title = 'Test_Blog'
+
+theme="mainroad"
+
+# Custom social links
+[[Params.widgets.social.custom]]
+  title = "Youtube"
+  url = "https://youtube.com/user/username"
+  icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
